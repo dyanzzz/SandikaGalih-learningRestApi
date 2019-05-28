@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Budi",
+    "umur":30,
+    "nrp":"11210012",
+    "lulus":true,
+    "hobby":[
+      "coding",
+      "gaming"
+    ],
+    "pembimbing":{
+      "pembimbing1":"Bpk Doddy",
+      "pembimbing2":"Erik Doang"
+    }
+
+  },
+  {
+    "nama": "Budiwww",
+    "umur":30,
+    "nrp":"11210012www",
+    "lulus":true,
+    "hobby":[
+      "codingwwww",
+      "gamingwwww"
+    ],
+    "pembimbing":{
+      "pembimbing1":"Bpk Doddywwww",
+      "pembimbing2":"Erik Doangwwwww"
+    }
+
+  }
+]
